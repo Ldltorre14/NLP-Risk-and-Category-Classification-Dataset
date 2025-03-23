@@ -1,0 +1,897 @@
+{
+  "Assault": {
+      "assault_001": {
+      "category": "Crime / Law Enforcement",
+      "subcategory": "Assault",
+      "risk_level": "High",
+      "dialogue": [
+        {"dispatcher": "911, what’s your emergency?"},
+        {"caller": "Please help! A man just pulled a knife on me near the bridge in Central Park!"},
+        {"dispatcher": "Are you hurt? Did he stab you?"},
+        {"caller": "No, no, I ran, but he’s still following me! I don’t know what to do!"},
+        {"dispatcher": "Okay, take a deep breath. Where exactly are you right now?"},
+        {"caller": "I—uh, I just passed the big fountain, and I’m near the playground. Oh my God, he’s getting closer!"},
+        {"dispatcher": "Listen carefully. Try to keep moving towards an area with more people. Do you see anyone around?"},
+        {"caller": "Yes! There’s a group of people ahead! Should I go to them?"},
+        {"dispatcher": "Yes, move toward them. Officers are on the way. What does he look like?"},
+        {"caller": "He's tall, wearing a red hoodie and jeans. He has a beard. Please hurry!"}
+      ]
+    },
+    "assault_002": {
+      "category": "Crime / Law Enforcement",
+      "subcategory": "Assault",
+      "risk_level": "High",
+      "dialogue": [
+        {"dispatcher": "911, what’s your emergency?"},
+        {"caller": "There’s a guy beating up another man outside the coffee shop!"},
+        {"dispatcher": "Okay, stay calm. Are they still fighting?"},
+        {"caller": "Yes! He just threw him against a parked car! The guy on the ground isn’t moving!"},
+        {"dispatcher": "Do you see any weapons?"},
+        {"caller": "No, just fists, but he’s hitting him so hard. Oh no, he just kicked him in the head!"},
+        {"dispatcher": "Okay, we have officers on the way. Can you describe the attacker?"},
+        {"caller": "Uh, he’s in a black leather jacket, jeans, kind of heavyset, maybe in his 40s. The victim looks younger."},
+        {"dispatcher": "Alright, just keep at a safe distance. If the attacker leaves, let me know which way he goes."}
+      ]
+    },
+    "assault_003": {
+      "category": "Crime / Law Enforcement",
+      "subcategory": "Assault",
+      "risk_level": "High",
+      "dialogue": [
+        {"dispatcher": "911, what’s your emergency?"},
+        {"caller": "A man just punched another passenger on the subway! He’s got a broken bottle!"},
+        {"dispatcher": "Are you safe?"},
+        {"caller": "I think so. People are backing away, but he’s shouting at everyone."},
+        {"dispatcher": "Officers are on the way. Can you describe him?"},
+        {"caller": "Bald, blue hoodie, jeans, really angry-looking. He’s pacing."},
+        {"dispatcher": "Okay, don’t engage. Just stay out of his way."}
+      ]
+    },
+    "assault_004": {
+      "category": "Crime / Law Enforcement",
+      "subcategory": "Assault",
+      "risk_level": "Medium",
+      "dialogue": [
+        {"dispatcher": "911, what’s your emergency?"},
+        {"caller": "Uh, I think there’s a fight about to happen at the gas station."},
+        {"dispatcher": "What do you see?"},
+        {"caller": "Two guys are yelling, one just shoved the other into a car."},
+        {"dispatcher": "Has anyone been hurt?"},
+        {"caller": "Not really, but it’s escalating."},
+        {"dispatcher": "We’ll send an officer. Can you describe them?"},
+        {"caller": "One guy has a white tank top, the other a blue flannel shirt. They look drunk."}
+      ]
+    },
+    "assault_005": {
+      "category": "Crime / Law Enforcement",
+      "subcategory": "Assault",
+      "risk_level": "Medium",
+      "dialogue": [
+        {"dispatcher": "911, what’s your emergency?"},
+        {"caller": "There’s a man grabbing a woman’s arm really hard in the parking lot."},
+        {"dispatcher": "Is she trying to get away?"},
+        {"caller": "Yes, she keeps pulling, but he won’t let go."},
+        {"dispatcher": "We’ll send an officer. What do they look like?"},
+        {"caller": "The man’s in a blue jacket, the woman’s in red."}
+      ]
+    },
+    "assault_006": {
+      "category": "Crime / Law Enforcement",
+      "subcategory": "Assault",
+      "risk_level": "Medium",
+      "dialogue": [
+        {"dispatcher": "911, what’s your emergency?"},
+        {"caller": "A group of teenagers are getting into a fight near the library."},
+        {"dispatcher": "How many people?"},
+        {"caller": "Maybe five or six. A couple of them are pushing each other hard."},
+        {"dispatcher": "Are there any weapons?"},
+        {"caller": "No, just fists so far, but they’re really shouting."},
+        {"dispatcher": "We’re sending officers to check it out."}
+      ]
+    },
+    "assault_007": {
+      "category": "Crime / Law Enforcement",
+      "subcategory": "Assault",
+      "risk_level": "Low",
+      "dialogue": [
+        {"dispatcher": "911, what’s your emergency?"},
+        {"caller": "Two men are shouting at each other outside the grocery store."},
+        {"dispatcher": "Are they physically fighting?"},
+        {"caller": "No, but they’re really loud and angry."},
+        {"dispatcher": "We’ll send someone to check."}
+      ]
+    },
+    "assault_008": {
+      "category": "Crime / Law Enforcement",
+      "subcategory": "Assault",
+      "risk_level": "Low",
+      "dialogue": [
+        {"dispatcher": "911, what’s your emergency?"},
+        {"caller": "My neighbors are arguing loudly again."},
+        {"dispatcher": "Are there any signs of violence?"},
+        {"caller": "No, just shouting, but it’s disturbing."},
+        {"dispatcher": "Okay, we’ll send an officer to check."}
+      ]
+    },
+    "assault_009": {
+      "category": "Crime / Law Enforcement",
+      "subcategory": "Assault",
+      "risk_level": "Low",
+      "dialogue": [
+        {"dispatcher": "911, what’s your emergency?"},
+        {"caller": "A couple of students are pushing each other after a game."},
+        {"dispatcher": "Are they seriously fighting?"},
+        {"caller": "No, just roughhousing, but it might escalate."},
+        {"dispatcher": "We’ll notify school security."}
+      ]
+    }
+  },
+
+  "Robbery": {
+    "robbery_001": {
+      "category": "Crime / Law Enforcement",
+      "subcategory": "Robbery",
+      "risk_level": "High",
+      "dialogue": [
+        {"dispatcher": "911, what’s your emergency?"},
+        {"caller": "I’m at a gas station, and there’s a guy with a gun! He’s robbing the cashier!"},
+        {"dispatcher": "Stay calm. Are you inside or outside the store?"},
+        {"caller": "Inside! I’m hiding behind a shelf. He’s yelling and waving the gun around!"},
+        {"dispatcher": "How many suspects are there?"},
+        {"caller": "Just one, I think. He’s wearing a ski mask, and he’s forcing the cashier to open the register!"},
+        {"dispatcher": "Alright, we have officers en route. Try to stay quiet and don’t draw attention to yourself."},
+        {"caller": "Okay, please hurry! He’s getting aggressive!"}
+      ]
+    },
+    "robbery_002": {
+      "category": "Crime / Law Enforcement",
+      "subcategory": "Robbery",
+      "risk_level": "High",
+      "dialogue": [
+        {"dispatcher": "911, what’s your emergency?"},
+        {"caller": "Someone broke into my house! I think they’re still inside!"},
+        {"dispatcher": "Where are you right now?"},
+        {"caller": "I’m hiding in my closet upstairs. I can hear footsteps downstairs!"},
+        {"dispatcher": "Stay quiet. How many people do you hear?"},
+        {"caller": "I think two... They’re going through my stuff!"},
+        {"dispatcher": "Stay where you are. Officers are on the way. Do you have any way to exit safely?"},
+        {"caller": "No, they’d see me if I move!"},
+        {"dispatcher": "Alright, just stay put. Keep your phone on silent, and don’t make any noise."}
+      ]
+    },
+    "robbery_003": {
+      "category": "Crime / Law Enforcement",
+      "subcategory": "Robbery",
+      "risk_level": "High",
+      "dialogue": [
+        {"dispatcher": "911, what’s your emergency?"},
+        {"caller": "There’s a robbery happening at the First National Bank! They have guns!"},
+        {"dispatcher": "How many suspects do you see?"},
+        {"caller": "Three. They’ve locked the doors and are keeping everyone on the ground!"},
+        {"dispatcher": "Are you inside the bank?"},
+        {"caller": "Yes, I’m behind a desk, hiding. They’re yelling at the tellers to empty the vault!"},
+        {"dispatcher": "Stay quiet and don’t move. Officers are on their way. Do they have hostages?"},
+        {"caller": "Yes! A few people are tied up!"},
+        {"dispatcher": "Alright, stay hidden. We’ll get you out safely."}
+      ]
+    },
+    "robbery_004": {
+      "category": "Crime / Law Enforcement",
+      "subcategory": "Robbery",
+      "risk_level": "Medium",
+      "dialogue": [
+        {"dispatcher": "911, what’s your emergency?"},
+        {"caller": "Someone just stole my bag and ran off!"},
+        {"dispatcher": "Where did this happen?"},
+        {"caller": "Outside the mall, near the parking lot. He just grabbed it and ran!"},
+        {"dispatcher": "Did you see what they looked like?"},
+        {"caller": "Yeah, a tall guy, wearing a black hoodie and jeans. He ran toward the subway station!"},
+        {"dispatcher": "Okay, we’re sending officers to your location. Did he have any weapons?"},
+        {"caller": "No, I don’t think so, but he pushed me hard and ran off!"},
+        {"dispatcher": "Alright, stay where you are. Help is on the way."}
+      ]
+    },
+    "robbery_005": {
+      "category": "Crime / Law Enforcement",
+      "subcategory": "Robbery",
+      "risk_level": "Medium",
+      "dialogue": [
+        {"dispatcher": "911, what’s your emergency?"},
+        {"caller": "A man just stole a bunch of items from our store and is threatening my coworker!"},
+        {"dispatcher": "Is he still inside the store?"},
+        {"caller": "No, he’s outside, yelling and swinging something in his hand!"},
+        {"dispatcher": "What’s he holding?"},
+        {"caller": "I think a stick or maybe a metal rod. He’s smashing things!"},
+        {"dispatcher": "Okay, stay inside and lock the doors if you can. Officers are on their way."}
+      ]
+    },
+    "robbery_006": {
+      "category": "Crime / Law Enforcement",
+      "subcategory": "Robbery",
+      "risk_level": "Medium",
+      "dialogue": [
+        {"dispatcher": "911, what’s your emergency?"},
+        {"caller": "I just caught someone trying to steal my wallet!"},
+        {"dispatcher": "Where are you now?"},
+        {"caller": "At the bus stop on Main Street. I grabbed my wallet back, but he shoved me and ran off!"},
+        {"dispatcher": "Did you see where he went?"},
+        {"caller": "Yeah, he ran toward the alley behind the grocery store!"},
+        {"dispatcher": "Okay, stay put. Officers are heading your way."}
+      ]
+    },
+    "robbery_007": {
+      "category": "Crime / Law Enforcement",
+      "subcategory": "Robbery",
+      "risk_level": "Low",
+      "dialogue": [
+        {"dispatcher": "911, what’s your emergency?"},
+        {"caller": "Someone stole my bike from outside my office."},
+        {"dispatcher": "When did you last see it?"},
+        {"caller": "About an hour ago. I just came outside, and it’s gone!"},
+        {"dispatcher": "Was it locked?"},
+        {"caller": "Yes, but they must have cut the lock."},
+        {"dispatcher": "Okay, we’ll file a report. Can you describe the bike?"},
+        {"caller": "It’s a blue mountain bike with a black seat."}
+      ]
+    },
+    "robbery_008": {
+      "category": "Crime / Law Enforcement",
+      "subcategory": "Robbery",
+      "risk_level": "Low",
+      "dialogue": [
+        {"dispatcher": "911, what’s your emergency?"},
+        {"caller": "Someone stole a package from my porch!"},
+        {"dispatcher": "When did this happen?"},
+        {"caller": "I just checked my doorbell camera, and it happened 30 minutes ago."},
+        {"dispatcher": "Did you see the suspect?"},
+        {"caller": "Yeah, a guy in a gray hoodie and jeans. He walked up, grabbed the box, and ran."},
+        {"dispatcher": "Alright, we’ll send someone to take a report."}
+      ]
+    },
+    "robbery_009": {
+      "category": "Crime / Law Enforcement",
+      "subcategory": "Robbery",
+      "risk_level": "Low",
+      "dialogue": [
+        {"dispatcher": "911, what’s your emergency?"},
+        {"caller": "Someone just snatched my phone from my hand while I was walking!"},
+        {"dispatcher": "Where did this happen?"},
+        {"caller": "On 5th Avenue, near the bookstore!"},
+        {"dispatcher": "Did you get a look at them?"},
+        {"caller": "Yeah, a young guy in a red jacket, running toward the park!"},
+        {"dispatcher": "Okay, officers are on the way. Stay where you are."}
+      ]
+    }
+  },
+
+  "Domestic Violence": {
+    "domestic_violence_001": {
+      "category": "Crime / Law Enforcement",
+      "subcategory": "Domestic Violence",
+      "risk_level": "High",
+      "dialogue": [
+        {"dispatcher": "911, what’s your emergency?"},
+        {"caller": "(Whispering) My husband is threatening me… he’s in the other room."},
+        {"dispatcher": "Are you in immediate danger?"},
+        {"caller": "Yes, he’s been drinking and just broke a lamp."},
+        {"dispatcher": "Can you safely leave the house?"},
+        {"caller": "No, he’s blocking the front door."},
+        {"dispatcher": "Stay as quiet as possible. Officers are on their way. Can you lock yourself in a room?"},
+        {"caller": "Yes, I’m in the bathroom now."},
+        {"dispatcher": "Stay on the line if you can. Help is coming."}
+      ]
+    },
+    "domestic_violence_002": {
+      "category": "Crime / Law Enforcement",
+      "subcategory": "Domestic Violence",
+      "risk_level": "High",
+      "dialogue": [
+        {"dispatcher": "911, what’s your emergency?"},
+        {"caller": "My neighbor is screaming for help. I hear glass breaking!"},
+        {"dispatcher": "Do you see anything?"},
+        {"caller": "No, but I hear a man yelling at her."},
+        {"dispatcher": "Has this happened before?"},
+        {"caller": "Yes, I’ve heard them argue, but never this bad."},
+        {"dispatcher": "Stay in a safe place. Officers are being dispatched now."}
+      ]
+    },
+    "domestic_violence_003": {
+      "category": "Crime / Law Enforcement",
+      "subcategory": "Domestic Violence",
+      "risk_level": "High",
+      "dialogue": [
+        {"dispatcher": "911, what’s your emergency?"},
+        {"caller": "(Crying) My partner just pushed me down the stairs!"},
+        {"dispatcher": "Are you injured?"},
+        {"caller": "My leg hurts, I can’t stand up."},
+        {"dispatcher": "Stay where you are, an ambulance and officers are on the way. Where is your partner now?"},
+        {"caller": "Upstairs, I think he left the house."},
+        {"dispatcher": "Help is coming. Try to remain calm and avoid moving too much."}
+      ]
+    },
+    "domestic_violence_004": {
+      "category": "Crime / Law Enforcement",
+      "subcategory": "Domestic Violence",
+      "risk_level": "Medium",
+      "dialogue": [
+        {"dispatcher": "911, what’s your emergency?"},
+        {"caller": "My ex won’t leave my house and is threatening me."},
+        {"dispatcher": "Are they being physically violent?"},
+        {"caller": "Not yet, but they’re yelling and won’t let me leave."},
+        {"dispatcher": "Are there any weapons?"},
+        {"caller": "No, but I feel unsafe."},
+        {"dispatcher": "Understood. Officers are on the way. If you can, stay in a locked room until they arrive."}
+      ]
+    },
+    "domestic_violence_005": {
+      "category": "Crime / Law Enforcement",
+      "subcategory": "Domestic Violence",
+      "risk_level": "Medium",
+      "dialogue": [
+        {"dispatcher": "911, what’s your emergency?"},
+        {"caller": "I just saw a woman running down the street crying. She said her boyfriend hit her."},
+        {"dispatcher": "Did she say where he is now?"},
+        {"caller": "No, she just kept running."},
+        {"dispatcher": "Which direction did she go?"},
+        {"caller": "Towards Oak Street."},
+        {"dispatcher": "Alright, we’re sending officers to check the area now."}
+      ]
+    },
+    "domestic_violence_006": {
+      "category": "Crime / Law Enforcement",
+      "subcategory": "Domestic Violence",
+      "risk_level": "Medium",
+      "dialogue": [
+        {"dispatcher": "911, what’s your emergency?"},
+        {"caller": "I’m at a friend’s house, and their partner is screaming at them."},
+        {"dispatcher": "Is anyone being hurt?"},
+        {"caller": "Not yet, but I’m scared it might get worse."},
+        {"dispatcher": "Can you safely leave the house?"},
+        {"caller": "Yes, but I don’t want to leave them alone."},
+        {"dispatcher": "Stay safe. We’re sending officers now. If things escalate, step outside and call us again."}
+      ]
+    },
+    "domestic_violence_007": {
+      "category": "Crime / Law Enforcement",
+      "subcategory": "Domestic Violence",
+      "risk_level": "Low",
+      "dialogue": [
+        {"dispatcher": "911, what’s your emergency?"},
+        {"caller": "My parents are fighting really loudly, and I’m scared."},
+        {"dispatcher": "Are they hurting each other?"},
+        {"caller": "No, just yelling a lot."},
+        {"dispatcher": "Are there any younger children in the house?"},
+        {"caller": "Yes, my little brother is here too."},
+        {"dispatcher": "Okay, stay in a safe place. We’re sending someone to check on you."}
+      ]
+    },
+    "domestic_violence_008": {
+      "category": "Crime / Law Enforcement",
+      "subcategory": "Domestic Violence",
+      "risk_level": "Low",
+      "dialogue": [
+        {"dispatcher": "911, what’s your emergency?"},
+        {"caller": "I think my coworker is in an abusive relationship. She comes to work with bruises."},
+        {"dispatcher": "Has she told you she’s being hurt?"},
+        {"caller": "No, she avoids talking about it, but I’m worried."},
+        {"dispatcher": "Encourage her to reach out to the authorities. If you believe she is in immediate danger, call us again."}
+      ]
+    },
+    "domestic_violence_009": {
+      "category": "Crime / Law Enforcement",
+      "subcategory": "Domestic Violence",
+      "risk_level": "Low",
+      "dialogue": [
+        {"dispatcher": "911, what’s your emergency?"},
+        {"caller": "Hi, I’d like to report a loud argument next door."},
+        {"dispatcher": "Are you hearing any threats or physical violence?"},
+        {"caller": "No, just shouting and things being slammed around."},
+        {"dispatcher": "How long has this been going on?"},
+        {"caller": "For about 30 minutes now."},
+        {"dispatcher": "We’ll send officers to check on it. Stay safe and call back if things escalate."}
+      ]
+    }
+  },
+
+  "Shots Fired": {
+    "shots_fired_001": {
+      "category": "Crime / Law Enforcement",
+      "subcategory": "Shots Fired",
+      "risk_level": "High",
+      "dialogue": [
+        {"dispatcher": "911, what’s your emergency?"},
+        {"caller": "I just heard multiple gunshots outside my apartment!"},
+        {"dispatcher": "How many shots did you hear?"},
+        {"caller": "At least five, in quick succession!"},
+        {"dispatcher": "Do you see anyone with a weapon?"},
+        {"caller": "No, but I see people running away."},
+        {"dispatcher": "Stay inside and away from windows. Officers are en route."}
+      ]
+    },
+    "shots_fired_002": {
+      "category": "Crime / Law Enforcement",
+      "subcategory": "Shots Fired",
+      "risk_level": "High",
+      "dialogue": [
+        {"dispatcher": "911, what’s your emergency?"},
+        {"caller": "There’s a guy shooting in the parking lot of the mall!"},
+        {"dispatcher": "Can you describe the shooter?"},
+        {"caller": "Black hoodie, jeans, holding a handgun."},
+        {"dispatcher": "Are you in a safe place?"},
+        {"caller": "Yes, I’m inside a store hiding."},
+        {"dispatcher": "Stay hidden and silent. SWAT is on the way."}
+      ]
+    },
+    "shots_fired_003": {
+      "category": "Crime / Law Enforcement",
+      "subcategory": "Shots Fired",
+      "risk_level": "High",
+      "dialogue": [
+        {"dispatcher": "911, what’s your emergency?"},
+        {"caller": "Someone is shooting into a car on Main Street!"},
+        {"dispatcher": "Where exactly did this happen?"},
+        {"caller": "Near the gas station, the shooter just ran off!"},
+        {"dispatcher": "Can you describe the suspect?"},
+        {"caller": "He’s wearing a red cap and a leather jacket."},
+        {"dispatcher": "Stay put. Officers are responding immediately."}
+      ]
+    },
+    "shots_fired_004": {
+      "category": "Crime / Law Enforcement",
+      "subcategory": "Shots Fired",
+      "risk_level": "Medium",
+      "dialogue": [
+        {"dispatcher": "911, what’s your emergency?"},
+        {"caller": "I heard gunshots, but I don’t know where they came from."},
+        {"dispatcher": "How many shots did you hear?"},
+        {"caller": "Maybe two or three."},
+        {"dispatcher": "Do you see anything unusual outside?"},
+        {"caller": "No, I’m inside my house."},
+        {"dispatcher": "Stay indoors. Officers will check the area."}
+      ]
+    },
+    "shots_fired_005": {
+      "category": "Crime / Law Enforcement",
+      "subcategory": "Shots Fired",
+      "risk_level": "Medium",
+      "dialogue": [
+        {"dispatcher": "911, what’s your emergency?"},
+        {"caller": "Someone shot at a streetlight and ran away."},
+        {"dispatcher": "Where are you?"},
+        {"caller": "On 5th and Pine, near the convenience store."},
+        {"dispatcher": "Can you describe the suspect?"},
+        {"caller": "A teenager in a blue jacket, running towards the alley."},
+        {"dispatcher": "Officers are on their way. Stay in a safe place."}
+      ]
+    },
+    "shots_fired_006": {
+      "category": "Crime / Law Enforcement",
+      "subcategory": "Shots Fired",
+      "risk_level": "Medium",
+      "dialogue": [
+        {"dispatcher": "911, what’s your emergency?"},
+        {"caller": "I think someone shot into the air and took off running."},
+        {"dispatcher": "Where did this happen?"},
+        {"caller": "Near the basketball courts."},
+        {"dispatcher": "Did you see what they were wearing?"},
+        {"caller": "A white hoodie and black pants."},
+        {"dispatcher": "We’ll send officers to investigate."}
+      ]
+    },
+    "shots_fired_007": {
+      "category": "Crime / Law Enforcement",
+      "subcategory": "Shots Fired",
+      "risk_level": "Low",
+      "dialogue": [
+        {"dispatcher": "911, what’s your emergency?"},
+        {"caller": "I think I heard a gunshot, but it might be fireworks."},
+        {"dispatcher": "Where are you?"},
+        {"caller": "Near Lincoln Park."},
+        {"dispatcher": "Did you see anything unusual?"},
+        {"caller": "No, just some kids running around."},
+        {"dispatcher": "We’ll send officers to check it out."}
+      ]
+    },
+    "shots_fired_008": {
+      "category": "Crime / Law Enforcement",
+      "subcategory": "Shots Fired",
+      "risk_level": "Low",
+      "dialogue": [
+        {"dispatcher": "911, what’s your emergency?"},
+        {"caller": "I heard a loud bang outside, but it was only one."},
+        {"dispatcher": "Did you see anyone outside?"},
+        {"caller": "No, and there are no people around right now."},
+        {"dispatcher": "It could be a car backfiring, but officers will drive by to check."}
+      ]
+    },
+    "shots_fired_009": {
+      "category": "Crime / Law Enforcement",
+      "subcategory": "Shots Fired",
+      "risk_level": "Low",
+      "dialogue": [
+        {"dispatcher": "911, what’s your emergency?"},
+        {"caller": "I think I heard a gunshot, but I’m not sure."},
+        {"dispatcher": "Where are you located?"},
+        {"caller": "Near the school, but it sounded far away."},
+        {"dispatcher": "Did you see anything suspicious?"},
+        {"caller": "No, just a loud pop."},
+        {"dispatcher": "Officers will patrol the area to investigate."}
+      ]
+    }
+  },
+
+  "Kidnapping": {
+    "kidnapping_001": {
+      "category": "Crime / Law Enforcement",
+      "subcategory": "Kidnapping / Abduction",
+      "risk_level": "High",
+      "dialogue": [
+        {"dispatcher": "911, what’s your emergency?"},
+        {"caller": "(Whispering) I’ve been kidnapped. I don’t know where I am."},
+        {"dispatcher": "Stay calm. Can you describe anything around you?"},
+        {"caller": "I’m in the trunk of a car. It’s moving."},
+        {"dispatcher": "Can you feel anything? A spare tire, tools?"},
+        {"caller": "Yes, there’s a metal bar here."},
+        {"dispatcher": "Use it to try to release the emergency trunk latch. Stay on the line."}
+      ]
+    },
+    "kidnapping_002": {
+      "category": "Crime / Law Enforcement",
+      "subcategory": "Kidnapping / Abduction",
+      "risk_level": "High",
+      "dialogue": [
+        {"dispatcher": "911, what’s your emergency?"},
+        {"caller": "(Panicked) Someone just pulled my little sister into a van!"},
+        {"dispatcher": "Where did this happen?"},
+        {"caller": "Near the playground at Lincoln Park."},
+        {"dispatcher": "What did the vehicle look like?"},
+        {"caller": "A white van with no windows."},
+        {"dispatcher": "Stay there. Officers are responding now. Keep an eye out for any details."}
+      ]
+    },
+    "kidnapping_003": {
+      "category": "Crime / Law Enforcement",
+      "subcategory": "Kidnapping / Abduction",
+      "risk_level": "High",
+      "dialogue": [
+        {"dispatcher": "911, what’s your emergency?"},
+        {"caller": "(Crying) My Uber driver won’t let me out. He’s going the wrong way!"},
+        {"dispatcher": "Where are you now?"},
+        {"caller": "I don’t know! He locked the doors."},
+        {"dispatcher": "Stay calm. Is there a child lock preventing the doors from opening?"},
+        {"caller": "Yes! I can’t get out."},
+        {"dispatcher": "Stay on the line. We are tracking your phone and sending help."}
+      ]
+    },
+    "kidnapping_004": {
+      "category": "Crime / Law Enforcement",
+      "subcategory": "Kidnapping / Abduction",
+      "risk_level": "Medium",
+      "dialogue": [
+        {"dispatcher": "911, what’s your emergency?"},
+        {"caller": "I think I just saw someone getting forced into a car."},
+        {"dispatcher": "Where did this happen?"},
+        {"caller": "Outside the gas station on Main Street."},
+        {"dispatcher": "What did the car look like?"},
+        {"caller": "A black sedan with tinted windows."},
+        {"dispatcher": "Officers are on the way. If you’re safe, stay there to give details."}
+      ]
+    },
+    "kidnapping_005": {
+      "category": "Crime / Law Enforcement",
+      "subcategory": "Kidnapping / Abduction",
+      "risk_level": "Medium",
+      "dialogue": [
+        {"dispatcher": "911, what’s your emergency?"},
+        {"caller": "My daughter didn’t come home from school, and no one has seen her."},
+        {"dispatcher": "When was she last seen?"},
+        {"caller": "Around 3 PM, leaving the school."},
+        {"dispatcher": "What was she wearing?"},
+        {"caller": "A blue hoodie and jeans."},
+        {"dispatcher": "Stay at home in case she returns. Officers are searching now."}
+      ]
+    },
+    "kidnapping_006": {
+      "category": "Crime / Law Enforcement",
+      "subcategory": "Kidnapping / Abduction",
+      "risk_level": "Medium",
+      "dialogue": [
+        {"dispatcher": "911, what’s your emergency?"},
+        {"caller": "I got a weird message from my friend saying ‘help me’ before their phone went dead."},
+        {"dispatcher": "Where was your friend last seen?"},
+        {"caller": "Leaving work two hours ago."},
+        {"dispatcher": "Do they usually check in with you?"},
+        {"caller": "Yes, and they never send messages like that."},
+        {"dispatcher": "We’ll investigate. Do you know what they were wearing?"}
+      ]
+    },
+    "kidnapping_007": {
+      "category": "Crime / Law Enforcement",
+      "subcategory": "Kidnapping / Abduction",
+      "risk_level": "Low",
+      "dialogue": [
+        {"dispatcher": "911, what’s your emergency?"},
+        {"caller": "There’s a little boy alone at the grocery store. He looks lost."},
+        {"dispatcher": "Have you seen any adults with him?"},
+        {"caller": "No, he’s just standing near the entrance crying."},
+        {"dispatcher": "Stay with him if it’s safe. An officer is on the way."}
+      ]
+    },
+    "kidnapping_008": {
+      "category": "Crime / Law Enforcement",
+      "subcategory": "Kidnapping / Abduction",
+      "risk_level": "Low",
+      "dialogue": [
+        {"dispatcher": "911, what’s your emergency?"},
+        {"caller": "I think my ex took my son without my permission."},
+        {"dispatcher": "Are they supposed to have custody?"},
+        {"caller": "No, I have full custody."},
+        {"dispatcher": "Where did they go?"},
+        {"caller": "I don’t know, but they left an hour ago."},
+        {"dispatcher": "We’ll send an officer to assist. Stay where you are."}
+      ]
+    },
+    "kidnapping_009": {
+      "category": "Crime / Law Enforcement",
+      "subcategory": "Kidnapping / Abduction",
+      "risk_level": "Low",
+      "dialogue": [
+        {"dispatcher": "911, what’s your emergency?"},
+        {"caller": "My teenage son didn’t come home last night. I’m worried."},
+        {"dispatcher": "Have you checked with his friends?"},
+        {"caller": "Yes, and no one has seen him."},
+        {"dispatcher": "Has he ever done this before?"},
+        {"caller": "No, this is not like him."},
+        {"dispatcher": "We’ll file a missing person report. Stay by your phone in case he contacts you."}
+      ]
+    }
+  },
+
+  "Suspicious Activity": {
+    "suspicious_001": {
+      "category": "Crime / Law Enforcement",
+      "subcategory": "Suspicious Activity",
+      "risk_level": "High",
+      "dialogue": [
+        {"dispatcher": "911, what’s your emergency?"},
+        {"caller": "I see a man trying to open car doors in the parking lot."},
+        {"dispatcher": "Where are you located?"},
+        {"caller": "The mall parking lot on 5th Avenue."},
+        {"dispatcher": "Can you describe the man?"},
+        {"caller": "He’s wearing a black hoodie and jeans, acting nervous."},
+        {"dispatcher": "Stay in a safe place. Officers are on the way."}
+      ]
+    },
+    "suspicious_002": {
+      "category": "Crime / Law Enforcement",
+      "subcategory": "Suspicious Activity",
+      "risk_level": "High",
+      "dialogue": [
+        {"dispatcher": "911, what’s your emergency?"},
+        {"caller": "Someone is peeking into windows of houses on my street."},
+        {"dispatcher": "What street are you on?"},
+        {"caller": "Pinecrest Drive, near the park."},
+        {"dispatcher": "What does the person look like?"},
+        {"caller": "Tall, wearing a gray hoodie and carrying a backpack."},
+        {"dispatcher": "Stay inside and lock your doors. Officers are en route."}
+      ]
+    },
+    "suspicious_003": {
+      "category": "Crime / Law Enforcement",
+      "subcategory": "Suspicious Activity",
+      "risk_level": "High",
+      "dialogue": [
+        {"dispatcher": "911, what’s your emergency?"},
+        {"caller": "There’s an unmarked van parked outside my child’s school, and the driver is watching the kids."},
+        {"dispatcher": "Where is the school located?"},
+        {"caller": "Maple Elementary, near the main entrance."},
+        {"dispatcher": "Can you describe the vehicle?"},
+        {"caller": "White van with no windows on the sides, no license plate visible."},
+        {"dispatcher": "Officers are being dispatched. Stay where you are and observe safely."}
+      ]
+    },
+    "suspicious_004": {
+      "category": "Crime / Law Enforcement",
+      "subcategory": "Suspicious Activity",
+      "risk_level": "Medium",
+      "dialogue": [
+        {"dispatcher": "911, what’s your emergency?"},
+        {"caller": "I just saw someone drop a package and run away at the bus station."},
+        {"dispatcher": "Where exactly did this happen?"},
+        {"caller": "At the central bus terminal, near Gate 3."},
+        {"dispatcher": "What did the package look like?"},
+        {"caller": "A black duffel bag, left near a bench."},
+        {"dispatcher": "Move away from the area. Officers and a bomb squad are on the way."}
+      ]
+    },
+    "suspicious_005": {
+      "category": "Crime / Law Enforcement",
+      "subcategory": "Suspicious Activity",
+      "risk_level": "Medium",
+      "dialogue": [
+        {"dispatcher": "911, what’s your emergency?"},
+        {"caller": "I keep seeing the same car circling my neighborhood slowly."},
+        {"dispatcher": "How long has this been happening?"},
+        {"caller": "For the last 30 minutes."},
+        {"dispatcher": "Can you describe the vehicle?"},
+        {"caller": "A dark blue sedan, older model, with tinted windows."},
+        {"dispatcher": "We will send an officer to check. Stay alert and call back if anything changes."}
+      ]
+    },
+    "suspicious_006": {
+      "category": "Crime / Law Enforcement",
+      "subcategory": "Suspicious Activity",
+      "risk_level": "Medium",
+      "dialogue": [
+        {"dispatcher": "911, what’s your emergency?"},
+        {"caller": "I saw someone taking pictures of children at the playground without a parent around."},
+        {"dispatcher": "Where is this happening?"},
+        {"caller": "At Westwood Park near the swings."},
+        {"dispatcher": "Can you describe the person?"},
+        {"caller": "A middle-aged man in a brown jacket and sunglasses."},
+        {"dispatcher": "Stay at a safe distance. Officers are on the way."}
+      ]
+    },
+    "suspicious_007": {
+      "category": "Crime / Law Enforcement",
+      "subcategory": "Suspicious Activity",
+      "risk_level": "Low",
+      "dialogue": [
+        {"dispatcher": "911, what’s your emergency?"},
+        {"caller": "There’s a man standing in front of my house for a long time, just watching."},
+        {"dispatcher": "How long has he been there?"},
+        {"caller": "At least 20 minutes."},
+        {"dispatcher": "Does he look familiar?"},
+        {"caller": "No, I’ve never seen him before."},
+        {"dispatcher": "Keep your doors locked. Officers will check it out."}
+      ]
+    },
+    "suspicious_008": {
+      "category": "Crime / Law Enforcement",
+      "subcategory": "Suspicious Activity",
+      "risk_level": "Low",
+      "dialogue": [
+        {"dispatcher": "911, what’s your emergency?"},
+        {"caller": "I saw a man looking into mailboxes on my street."},
+        {"dispatcher": "Where are you located?"},
+        {"caller": "Elm Street, near 8th Avenue."},
+        {"dispatcher": "What does the man look like?"},
+        {"caller": "Older, wearing a red cap and carrying a small bag."},
+        {"dispatcher": "We will send an officer to check. Stay inside for now."}
+      ]
+    },
+    "suspicious_009": {
+      "category": "Crime / Law Enforcement",
+      "subcategory": "Suspicious Activity",
+      "risk_level": "Low",
+      "dialogue": [
+        {"dispatcher": "911, what’s your emergency?"},
+        {"caller": "There’s a car parked outside my house for a long time, but no one gets out."},
+        {"dispatcher": "How long has it been there?"},
+        {"caller": "Over an hour now."},
+        {"dispatcher": "Can you see the driver?"},
+        {"caller": "No, the windows are tinted."},
+        {"dispatcher": "We will send an officer to investigate. Keep your doors locked."}
+      ]
+    }
+  },
+
+  "Trespassing": {
+    "trespassing_001": {
+      "category": "Crime / Law Enforcement",
+      "subcategory": "Trespassing",
+      "risk_level": "High",
+      "dialogue": [
+        {"dispatcher": "911, what’s your emergency?"},
+        {"caller": "There’s someone inside my house! I don’t know how they got in!"},
+        {"dispatcher": "Stay calm. Are you in a safe location?"},
+        {"caller": "I locked myself in the bathroom, but I can hear them moving around."},
+        {"dispatcher": "Stay quiet. Officers are en route. Do you hear voices or just movement?"},
+        {"caller": "Just movement... Oh my God, I think they’re trying to open the door!"},
+        {"dispatcher": "Stay where you are. Help is arriving shortly. Don’t engage with them."}
+      ]
+    },
+    "trespassing_002": {
+      "category": "Crime / Law Enforcement",
+      "subcategory": "Trespassing",
+      "risk_level": "High",
+      "dialogue": [
+        {"dispatcher": "911, what’s your emergency?"},
+        {"caller": "I just got home, and my front door is wide open. I think someone’s been inside!"},
+        {"dispatcher": "Did you enter the house?"},
+        {"caller": "No, I’m outside in my car."},
+        {"dispatcher": "Good. Stay outside. Do you see any signs of forced entry?"},
+        {"caller": "The lock looks broken, and my living room lights are on. I didn’t leave them on!"},
+        {"dispatcher": "Officers are on their way. Stay in your car and keep your doors locked."}
+      ]
+    },
+    "trespassing_003": {
+      "category": "Crime / Law Enforcement",
+      "subcategory": "Trespassing",
+      "risk_level": "High",
+      "dialogue": [
+        {"dispatcher": "911, what’s your emergency?"},
+        {"caller": "There’s a man in my backyard, and he’s looking into my windows."},
+        {"dispatcher": "Do you know him?"},
+        {"caller": "No, he’s a stranger! He’s trying to open my back door now!"},
+        {"dispatcher": "Lock all doors. Stay inside and don’t confront him. Officers are on the way."},
+        {"caller": "Okay, okay. Oh no, he just saw me through the window!"},
+        {"dispatcher": "Stay calm. Help is almost there. Keep your phone line open."}
+      ]
+    },
+    "trespassing_004": {
+      "category": "Crime / Law Enforcement",
+      "subcategory": "Trespassing",
+      "risk_level": "Medium",
+      "dialogue": [
+        {"dispatcher": "911, what’s your emergency?"},
+        {"caller": "There’s someone sleeping in the alleyway behind my store. They won’t leave."},
+        {"dispatcher": "Are they threatening you or anyone else?"},
+        {"caller": "No, but they’re refusing to go even after I asked nicely."},
+        {"dispatcher": "Okay, an officer will come by to speak with them."},
+        {"caller": "Thanks, I just don’t want any trouble."}
+      ]
+    },
+    "trespassing_005": {
+      "category": "Crime / Law Enforcement",
+      "subcategory": "Trespassing",
+      "risk_level": "Medium",
+      "dialogue": [
+        {"dispatcher": "911, what’s your emergency?"},
+        {"caller": "I think some teenagers are climbing over the fence into my neighbor’s yard."},
+        {"dispatcher": "Do they seem to be causing any damage or trying to break in?"},
+        {"caller": "I’m not sure, but they’re sneaking around the side of the house."},
+        {"dispatcher": "We’ll send an officer to check it out. Stay where you are and don’t engage."}
+      ]
+    },
+    "trespassing_006": {
+      "category": "Crime / Law Enforcement",
+      "subcategory": "Trespassing",
+      "risk_level": "Medium",
+      "dialogue": [
+        {"dispatcher": "911, what’s your emergency?"},
+        {"caller": "I just saw someone hop the fence into the schoolyard. The school is closed right now."},
+        {"dispatcher": "Do they appear to be armed or dangerous?"},
+        {"caller": "No, but they’re looking around like they’re up to something."},
+        {"dispatcher": "An officer will be there shortly to investigate. Thank you for reporting it."}
+      ]
+    },
+    "trespassing_007": {
+      "category": "Crime / Law Enforcement",
+      "subcategory": "Trespassing",
+      "risk_level": "Low",
+      "dialogue": [
+        {"dispatcher": "911, what’s your emergency?"},
+        {"caller": "There’s a guy fishing at the community lake, but I don’t think he has a permit."},
+        {"dispatcher": "Is he being disruptive or aggressive?"},
+        {"caller": "No, but he ignored the ‘No Fishing’ sign."},
+        {"dispatcher": "We’ll send someone to check. Thanks for letting us know."}
+      ]
+    },
+    "trespassing_008": {
+      "category": "Crime / Law Enforcement",
+      "subcategory": "Trespassing",
+      "risk_level": "Low",
+      "dialogue": [
+        {"dispatcher": "911, what’s your emergency?"},
+        {"caller": "There’s a man sitting in our apartment lobby, but he doesn’t live here."},
+        {"dispatcher": "Is he causing any trouble?"},
+        {"caller": "No, but he won’t leave even after the manager asked him to."},
+        {"dispatcher": "Okay, an officer will be sent to handle the situation."}
+      ]
+    },
+    "trespassing_009": {
+      "category": "Crime / Law Enforcement",
+      "subcategory": "Trespassing",
+      "risk_level": "Low",
+      "dialogue": [
+        {"dispatcher": "911, what’s your emergency?"},
+        {"caller": "A group of kids is playing in an empty lot with a ‘No Trespassing’ sign."},
+        {"dispatcher": "Are they damaging anything or in any danger?"},
+        {"caller": "No, they’re just running around."},
+        {"dispatcher": "We’ll have someone check it out. Thanks for calling."}
+      ]
+    }
+  }
+
+}
